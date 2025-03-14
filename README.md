@@ -12,8 +12,8 @@ This repository demonstrates how to integrate **Next.js 15** with **Material UI 
 
 Clone the repository:  
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/sadurskyyserhiy/nextjs-mui-tailwind-example.git
+cd nextjs-mui-tailwind-example
 ```
 
 Install dependencies:
